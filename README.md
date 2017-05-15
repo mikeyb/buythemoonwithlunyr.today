@@ -11,15 +11,29 @@ This is a sample project utilizing the following technologies
 *  IPFS
 *  Web3
 
-##  Requirements
+##  Usage
+
+Open `nocompile/index.html` in your browser.
+
+*  `file:///home/user/projects/buythemoonwithlunyr.today/nocompile/index.html`
+
+##  Installation (recompiled)
+
+###  Requirements
 
 *  Running IPFS api daemon on default port 5001
    *  https://ipfs.io/docs/install/
 *  Node.js & npm
    *  https://nodejs.org/en/download/
 
-##  Installation
+###  Build
+If you want to change settings and build source (you want to drop different addresses, etc.)
 
 *  `git clone https://github.com/mikeyb/buythemoonwithlunyr.today.git`
 *  `npm install`
 *  `gulp`
+
+###  Usage
+Open `dist/index.html` in your browser.
+
+*  `file:///home/user/projects/buythemoonwithlunyr.today/dist/index.html`
