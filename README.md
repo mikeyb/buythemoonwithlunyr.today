@@ -11,13 +11,18 @@ This is a sample project utilizing the following technologies
 *  IPFS
 *  Web3
 
-##  Usage
+
+##  Installation
+
+###  Usage
+
+*  `git clone https://github.com/mikeyb/buythemoonwithlunyr.today.git`
 
 Open `nocompile/index.html` in your browser.
 
 *  `file:///home/user/projects/buythemoonwithlunyr.today/nocompile/index.html`
 
-##  Installation (recompiled)
+##  Installation (recompile)
 
 ###  Requirements
 
