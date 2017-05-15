@@ -1,0 +1,18 @@
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+a.nav-item.is-active {
+  color: #cccccc;
+}
+.nav {
+  background-color: #444444;
+}
+.nav-toggle span {
+  background-color: #cccccc;
+}
+.has-text-muted {
+  color: #95A5A6;
+}
+.crowdfund-header {
+  background-color:#fafafa;
+}
