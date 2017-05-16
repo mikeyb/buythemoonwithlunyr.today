@@ -35,6 +35,7 @@ Open `nocompile/index.html` in your browser.
 If you want to change settings and build source (you want to drop different addresses, etc.)
 
 *  `git clone https://github.com/mikeyb/buythemoonwithlunyr.today.git`
+*  `cd buythemoonwithlunyr.today`
 *  `npm install`
 *  `gulp`
 
